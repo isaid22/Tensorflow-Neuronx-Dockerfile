@@ -1,4 +1,4 @@
-# Tensorflow-Neuronx-Dockerfile
+# Tensorflow-Neuronx-Dockerfile (beta)
 Describe how to build a docker container that serves TF Serving on Neuron device
 
 
